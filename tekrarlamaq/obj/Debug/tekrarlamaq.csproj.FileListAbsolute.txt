@@ -1,0 +1,10 @@
+D:\tekrarlamaq\tekrarlamaq\bin\Debug\tekrarlamaq.exe.config
+D:\tekrarlamaq\tekrarlamaq\bin\Debug\tekrarlamaq.exe
+D:\tekrarlamaq\tekrarlamaq\bin\Debug\tekrarlamaq.pdb
+D:\tekrarlamaq\tekrarlamaq\obj\Debug\tekrarlamaq.csprojAssemblyReference.cache
+D:\tekrarlamaq\tekrarlamaq\obj\Debug\tekrarlamaq.Form1.resources
+D:\tekrarlamaq\tekrarlamaq\obj\Debug\tekrarlamaq.Properties.Resources.resources
+D:\tekrarlamaq\tekrarlamaq\obj\Debug\tekrarlamaq.csproj.GenerateResource.cache
+D:\tekrarlamaq\tekrarlamaq\obj\Debug\tekrarlamaq.csproj.CoreCompileInputs.cache
+D:\tekrarlamaq\tekrarlamaq\obj\Debug\tekrarlamaq.exe
+D:\tekrarlamaq\tekrarlamaq\obj\Debug\tekrarlamaq.pdb
